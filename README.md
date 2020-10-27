@@ -1,2 +1,2 @@
-# kook
-kook web-fed,management project
+# 学习管家小程序1.0
+
