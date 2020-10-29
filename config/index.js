@@ -1,6 +1,6 @@
 const config = {
-  projectName: 'myApp',
-  date: '2020-10-20',
+  projectName: 'studyManagers',
+  date: '2020-10-29',
   designWidth: 750,
   deviceRatio: {
     640: 2.34 / 2,
@@ -43,7 +43,6 @@ const config = {
     }
   },
   h5: {
-    esnextModules: ['taro-ui'],
     publicPath: '/',
     staticDirectory: 'static',
     postcss: {
